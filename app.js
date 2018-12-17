@@ -10,6 +10,7 @@
 
 // sayBye()
 
-function callFunction(fun){
-    fun()
-}
+
+var counter = require('./count')
+console.log(counter(['123', '123', '123']))
+
