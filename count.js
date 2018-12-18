@@ -5,3 +5,5 @@ var counter = function(arr){
 // console.log(counter(['123', '123', '123']))
 
 module.exports = counter
+
+
