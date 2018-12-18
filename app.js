@@ -14,3 +14,5 @@
 var counter = require('./count')
 console.log(counter(['123', '123', '123']))
 
+
+
